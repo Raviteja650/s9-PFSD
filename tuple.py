@@ -1,0 +1,7 @@
+tup=(5,5.9,"hello")
+print(tup)
+print(tup[2])
+print(tup[:4])
+print(tup*2)
+print(tup+tup)
+print(tup[-3:])
